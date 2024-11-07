@@ -1,4 +1,4 @@
 # Biodata
-Nama     :Ariyanto
-Nim      :I.2410167 
-Fakultas :Ilmu Komputer
+Nama     :Ariyanto <br/>
+Nim      :I.2410167 <br/>
+Fakultas :Ilmu Komputer <br/>
